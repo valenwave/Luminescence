@@ -6,6 +6,7 @@
 ## Pro Visual Studio Code
 * The preview sidebar allows for quicker finding of code sections.
 * `CTRL+Left-click` on a link will open up the link the browser. To do this in Atom, you have to right-click and select "Open Link". Also internal links doesn't appear to work at all for Atom. You'll want to use Visual Studio Code for this kind of navigation.
+* When creating an internal Markdown link and you start typing #, it will auto suggest based on existing headers on that page. 
 
 ## Cons for both
 There's no easy way to access on other devices. I have resorted to committing folders to GitHub. However, it's not as convenient as cloud saving.
@@ -35,3 +36,6 @@ There's no easy way to access on other devices. I have resorted to committing fo
 
 ## Cons
 * Not a very good mobile presence.
+
+# Other Pages
+* [Master Duel](/Master-Duel.md)
