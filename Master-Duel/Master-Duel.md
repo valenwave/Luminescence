@@ -53,3 +53,4 @@
 
 # Pages
 * [Cards](/Master-Duel/Cards.md)
+

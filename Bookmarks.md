@@ -20,6 +20,7 @@
 * [Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)
 * [Markdown](https://code.visualstudio.com/docs/languages/markdown)
 * [Themes](https://code.visualstudio.com/docs/getstarted/themes)
+* [Available Syntax Highlighting](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 # Software
 * [Atom](https://atom.io/)

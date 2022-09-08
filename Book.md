@@ -19,11 +19,14 @@ There's no easy way to access on other devices. I have resorted to committing fo
 * You can install [Document Outline](https://atom.io/packages/document-outline) to have a similar outline feature that Visual Studio Code has. The way that the package implement outline is better than the native outline that Visual Studio Code has. In Atom, the outline is dedicated to the right side of the document and it automatically removes the pound symbol (#) from the outline. However, You can collapse nested headings in the outline but if you click anywhere in the document, it all expands again. This limits the number of headers in your document if you want it to be the most maintainable. Visual Studio Code doesn't have the problem of the outline auto-expanding, but you have to manually delicate how much space you want the outline to take up on the left side.
 
 ### Making Visual Studio Code Better
-* There's package called [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to will add spell checking. However, in Atom, you can simply right-click to see possible spellcheck option. While in Visual Studio code, you have to wait for and look for the light bulb icon, use the `CTRL+.` shortcut, or right-click and also select, "Spelling Suggestions...". Even with the extension, Atom is better with spell checking.
+* Outline: The Outline pane can be dragged to the right to create a right panel area allowing the Outline to have an entire panel all to itself.
+* Spellchecking: There's package called [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to will add spell checking. However, in Atom, you can simply right-click to see possible spellcheck option. While in Visual Studio code, you have to wait for and look for the light bulb icon, use the `CTRL+.` shortcut, or right-click and also select, "Spelling Suggestions...". Even with the extension, Atom is better with spell checking. I'll need to investigate options for editing the spell checker.
+* Workspace: In Visual Studio Code, when you open up a folder, it replaces the existing one. However, if you right-click on the workspace area, you can select "Add Folder to Workspace..." to be able to have multiple folders open simultaneously. With multiple files open in your workspace, you can save your workspace to be opened later (I haven't tried this).
 
-### Notes
-* In Visual Studio Code, when you open up a folder, it replaces the existing one. However, if you right-click on the workspace area, you can select "Add Folder to Workspace..." to be able to have multiple folders open simultaneously. With multiple files open in your workspace, you can save your workspace to be opened later (I haven't tried this).
-* Visual Studio Code does not have a built in spellcheck that Atom has. This makes Atom better for writing documentation.
+### Themes
+* `CTRL+K, CTRL+T`
+* Dark+ (Default Dark): Bulleted list are white. Headers are blue.
+* Monokai Dimmed: I don't like that my bulleted list are a shade of green. 
 
 ### In Summary
 * Atom is better at... screenshots, spell checking
@@ -51,4 +54,8 @@ Supports up to 3 mind maps on the free version. This is enough for me at the mom
 * Make file names without spaces makes it easier to reference.
 
 # Other Pages
-* [Master Duel](/Master-Duel.md)
+* [Bookmarks](/Bookmarks.md)
+* [Community](/Community.md)
+* [Packages](/Packages.md)
+* [Shortcuts](/Shortcuts.md)
+* [Master Duel](/Master-Duel/Master-Duel.md)
