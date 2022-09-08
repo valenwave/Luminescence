@@ -15,6 +15,9 @@
 * [Metroid Prime](https://www.youtube.com/watch?v=aOyiOkJ4utw)
 * [Metroid Prime 3](https://www.youtube.com/watch?v=G958DvTsXuc)
 
+## Trailers
+* [WEIRD: The Al Yankovic Story](https://www.youtube.com/watch?v=0hwJpA0m8EY)
+
 ## TV Shows
 * [13 Reasons Why](https://www.youtube.com/watch?v=Gef1nihHFYU)
 * [Breaking Bad](https://www.youtube.com/watch?v=yf2OYW5ocy8)
