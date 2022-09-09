@@ -45,6 +45,11 @@
 * Tuning
 * Reinforcement of the Army
 
+# Benefits in Graveyard
+* Jet Synchron
+* Junk Converter (if I have Junk Synchron in hand)
+* Quillbolt Hedgehog
+
 ---
 
 # Equip Spell

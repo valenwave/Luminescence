@@ -36,9 +36,23 @@
 ## Sorciere de Fleur
 * Can cheat in with [Necro Fleur](#necro-fleur), but I don't think it's worth it considering it is a dead card in head if I draw Sorciere de Fleur or if I even draw Necro Fleur without a way to self-destruct it.
 
+# Foolish Burial
+* [Benefits in Graveyard](/Master-Duel/Master-Duel.md#benefits-in-graveyard)
+
+# Forbidden Droplet
+* [Benefits in Graveyard](/Master-Duel/Master-Duel.md#benefits-in-graveyard)
+
 # Junk
+## Junk Anchor
+* Junk Anchor => Junk Servant
+* Junk Anchor + Junk Servant => Stardust Charge Warrior
+* Junk Forward + Junk Anchor => Junk Speeder
+
 ## Junk Archer
 * I can synchro summon this with [Quickdraw Synchron](#quickdraw-synchron) and Quillbolt Hedgehog, but ending a combo at Junk Archer isn't thrilling. 
+
+## Junk Changer
+* It's not a Synchron, so I can't use it to make Junk Speeder or get it with Junk Speeder
 
 ## Junk Connector
 * Junk Speeder
@@ -53,6 +67,13 @@
 
 ## Junk Speeder
 * Could provide the resources for a [Double Tribute](/Master-Duel/Master-Duel.md#double-tribute). If I decide to use them, Chronograph Sorcerer provides another way to get them out. 
+* Junk Converter + Junk Synchron => Junk Speeder
+* Junk Servant + Jet Synchron => Junk Speeder
+* Junk Forward + Junk Anchor => Junk Speeder
+* Junk Speeder + Nitro Synchron => Nitro Warrior + Jet Synchron => Chaos Ruler, the Chaotic Magical Dragon + Satellite Synchron => Baronne de Fleur
+* Junk Speeder + Jet Synchron => Stardust Charge Warrior + Satellite Synchron => Baronne de Fleur
+* Junk Speeder + Satellite Synchron + Road Synchron => Crystron Quariongandrax
+* Junk Speeder + Junk Synchron + Jet Synchron => Crystron Quariongandrax
 
 # Lightning Storm
 * Not great if I depend on Field Spells, Continous Spell or Traps, or Pendulum monsters. 
@@ -63,6 +84,9 @@
 * I can special summon Starry Night, Starry Dragon if I happen to get it in the graveyard. 
 * I can bring back a monster that was destroyed to continue my combo.
 
+# One Day of Peace
+* Is fine if I can get Baronne de Fleur out
+
 # One for One
 * Tuningware
 
@@ -72,6 +96,23 @@
 
 ## Majestic Absorption
 * Might be fun to try out. 
+
+## Majestic Dragon
+* Majestic Dragon
+* Converging Wills Dragon
+* Looks like Converging Wills Dragon is a direct upgrade. 
+
+### Converging Wills Dragon
+* If I have Stardust Dragon, I can bring out Stardust Xiaolong from my deck to get Majestic Star Dragon
+
+### Majestic Red Dragon
+* I don't really have Red Dragon Archfiend cards yet. 
+
+### Majestic Star Dragon
+* Stardust Dragon + Converging Wills Dragon + Stardust Xiaolong => Majestic Star Dragon
+
+### Shooting Majestic Star Dragon
+* Stardust Dragon + Formula Synchron => Shooting Star Dragon + [Majestic Dragon](#majestic-dragon) => Shooting Majestic Star Dragon
 
 ## Majestic Mirage
 * Even if my conditions are met, I still would have to depend on my opponent triggering it. 
@@ -148,8 +189,16 @@
 ### Road Warrior
 * I don't see a good way of summoning this guy. 
 
+## Stardust Synchron
+* Starlight Road
+* Stardust Re-Spark
+* Arrive in Light
+
 ## Tuning
 * I can get Junk Synchron, but I need to already have a level 2 in the graveyard to summon Junk Speeder. Reinforcement of the Army is a better searcher, because I can get Junk Converter. It's still nice to have, it's just not perfect. 
+* Jet Synchron
+* Junk Synchron
+* Satellite Synchron
 
 ## Turbo Synchron
 * I'm fine with having Jet Synchron in my deck. 
