@@ -52,7 +52,9 @@
 * I can synchro summon this with [Quickdraw Synchron](#quickdraw-synchron) and Quillbolt Hedgehog, but ending a combo at Junk Archer isn't thrilling. 
 
 ## Junk Changer
-* It's not a Synchron, so I can't use it to make Junk Speeder or get it with Junk Speeder
+* Junk Changer + Junk Servant => Stardust Dragon
+* Junk Changer + Junk Servant => Crystron Halquifibrax
+* Junk Changer + Junk Servant => Stardust Charge Warrior
 
 ## Junk Connector
 * Junk Speeder
@@ -70,10 +72,15 @@
 * Junk Converter + Junk Synchron => Junk Speeder
 * Junk Servant + Jet Synchron => Junk Speeder
 * Junk Forward + Junk Anchor => Junk Speeder
+* Synchron Explorer + Junk Synchron => Junk Speeder
+* Synchron Carrier + Junk Synchron => Junk Speeder
 * Junk Speeder + Nitro Synchron => Nitro Warrior + Jet Synchron => Chaos Ruler, the Chaotic Magical Dragon + Satellite Synchron => Baronne de Fleur
 * Junk Speeder + Jet Synchron => Stardust Charge Warrior + Satellite Synchron => Baronne de Fleur
 * Junk Speeder + Satellite Synchron + Road Synchron => Crystron Quariongandrax
 * Junk Speeder + Junk Synchron + Jet Synchron => Crystron Quariongandrax
+
+# Lefty Driver
+* Junk Speeder + Righty Driver + Lefty Driver => Trishula, Dragon of the Ice Barrier (2 turns)
 
 # Lightning Storm
 * Not great if I depend on Field Spells, Continous Spell or Traps, or Pendulum monsters. 
@@ -88,6 +95,7 @@
 * Is fine if I can get Baronne de Fleur out
 
 # One for One
+* Righty Driver
 * Tuningware
 
 # Stardust
@@ -154,6 +162,11 @@
 * I can get this from my deck if I draw Converging Wills Dragon and I have a Stardust Dragon on the field. I can get a Majestic Star Dragon from this. 
 
 # Synchron
+## Synchron Substitute
+* Quickdraw Synchron
+* Righty Driver
+* Junk Anchor
+
 ## Accel Synchron
 * What can I gain from throwing a Synchron monster from the deck to graveyard? 
 
@@ -182,6 +195,10 @@
 ## Quickdraw Synchron
 * If I discard Quillbolt Hedgehog, I can use Quillbolt Hedgehog's ability to bring it right back for a [Level 7 Synchro Monster that mentions "Synchron" Tuner as material](#level-7-synchro-monster-that-mentions-synchron-tuner-as-material)
 * It's one of the only level 5 Synchrons that I can use with Junk Speeder. I can't make much with it, but I can link summon Crystron Halqifibrax, but I have to wait a turn. So, I'm not in love with the idea. 
+
+## Righty Driver
+* You have to normal summon this one to trigger it's ability. 
+* Righty Driver + Junk Servant => Junk Speeder
 
 ## Road Synchron
 * I like it can become Level 2. It makes an extra Level 2 option for my Junk Speeder. 
