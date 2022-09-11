@@ -1,6 +1,11 @@
 # Angel Trumpeter
 * Angel Trumpeter + [Level 4 Normal Monster](/Master-Duel/Master-Duel.md#level-4-normal-monster) = Magikey Spirit - Vepartu
 
+# Astral Kuriboh
+* One of my favorite number support card. Allows me to help me get out...
+* Number 38: Hope Harbinger Dragon Titanic Galaxy 
+* Number 90: Galaxy-Eyes Photon Lord
+
 # Baby Mudragon
 * I don't think I'll miss this card. 
 
@@ -8,11 +13,23 @@
 * An example is Stardust Dragon or Baronne de Fleur.
 * I would need a reason to want to Synchro summon on my opponent's turn to use this, or be on the attack and the opponent decide to play a trap that would destroy my monsters. Situational. 
 
+# Cosmic Blazar Dragon
+* Formula Synchron + Stardust Dragon + Assault Blackwing - Sayo the Rain Hider
+* Formula Synchron + Stardust Dragon + T.G. Recipro Dragonfly
+* Crystron Halqifibrax => Formula Synchron
+* Mono Synchron + Quillbolt Hedgedhog => T.G. Recipro Dragonfly
+* Mono Synchron + Quillbolt Hedgedhog => Formula Synchron
+
+# Cyber Stein
+* Cyber End Dragon
+* Blaze Fenix, the Burning Bombardment Bird
+
 # Dinowrestler Pankraptops
 * I can destroy an opponent card or I can use it for it's ATK which is higher than Dark Magician
 
 # Eldich the Golden Lord
 * If I have any Spell or Traps in my deck, it's always nice to have the option to have Eldich the Golden Lord use it to destroy an opponent card instead. 
+* [Spells and traps that works in the graveyard](/Master-Duel/Master-Duel.md#spells-and-traps-that-works-in-the-graveyard)
 
 # Fleur
 ## Chevalier de Fleur
@@ -69,6 +86,7 @@
 
 ## Junk Speeder
 * Could provide the resources for a [Double Tribute](/Master-Duel/Master-Duel.md#double-tribute). If I decide to use them, Chronograph Sorcerer provides another way to get them out. 
+* [Arrive in Light](#arrive-in-light)
 * Junk Converter + Junk Synchron => Junk Speeder
 * Junk Servant + Jet Synchron => Junk Speeder
 * Junk Forward + Junk Anchor => Junk Speeder
@@ -99,6 +117,23 @@
 * Tuningware
 
 # Stardust
+## Arrive in Light
+* I can't actually activate this card unless I have Converging Wills Dragon in my check, and if I have Converging Wills Dragon, I might as well have Stardust Xiaolong. 
+* Can special summon Stardust Synchron with Junk Speeder to get Arrive in Light onto the field. 
+* Junk Speeder => Stardust Synchron & Junk Synchron 
+    * Stardust Synchron => Arrive in Light
+    * Junk Speeder + Junk Synchron => Stardust Dragon
+    * Stardust Dragon + Arrive in Light => Converging Wills Dragon 
+    * Converging Wills Dragon => Stardust Xiaolong
+    * Stardust Dragon + Converging Wills Dragon + Stardust Xiaolong => Majestic Star Dragon
+* Junk Speeder => Stardust Synchron & Junk Synchron & [Level 1 Synchron Tuner](/Master-Duel/Master-Duel.md#level-1-synchron-tuner) & [Level 2 Synchron Tuner](/Master-Duel/Master-Duel.md#level-2-synchron-tuner) 
+    * Stardust Synchron => Arrive in Light 
+    * Junk Speeder + Junk Synchron => Stardust Dragon
+    * Stardust Dragon + Arrive in Light => Converging Wills Dragon
+    * Level 1 & Level 2 => Crystron Halqifibrax 
+    * Crystron Halqifibrax => Formula Synchron 
+    * Stardust Dragon + Formula Synchron + Converging Wills Dragon => Shooting Majestic Star Dragon
+
 ## Converging Wishes
 * I've never been able to summon 5 Dragon Synchron monsters. 
 

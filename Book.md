@@ -57,5 +57,6 @@ Supports up to 3 mind maps on the free version. This is enough for me at the mom
 * [Bookmarks](/Bookmarks.md)
 * [Community](/Community.md)
 * [Packages](/Packages.md)
+* [References](/References/References.md)
 * [Shortcuts](/Shortcuts.md)
 * [Master Duel](/Master-Duel/Master-Duel.md)

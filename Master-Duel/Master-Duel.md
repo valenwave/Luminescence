@@ -1,3 +1,12 @@
+# Level 1
+## Level 1 Synchron Tuner
+* Jet Synchron
+* Cyberse Synchron
+* Rokket Synchron
+* Turbo Synchron
+* Changer Synchron
+* Unknown Synchron
+
 # Level 2
 ## Level 2 (Non-Tuner)
 * Morphing Jar
@@ -8,6 +17,12 @@
 * Quillbolt Hedgehog
 
 ## Level 2 (Tuner)
+### Level 2 Synchron Tuner
+* Satellite Synchron
+* Necro Synchron
+* Fleur Synchron
+* Nitro Synchron
+* Performapal Odd-Eyes Synchron
 
 ### Level 2 Fleur Synchron
 * Necro Synchron
@@ -49,6 +64,10 @@
 # Reborn
 * Monster Reborn
 * Call of the Hunted
+
+# Spells and traps that works in the graveyard
+* Luminous Dragon Ritual
+* Spiritual Swords of Revealing Light
 
 ---
 
