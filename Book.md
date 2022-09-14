@@ -54,9 +54,12 @@ Supports up to 3 mind maps on the free version. This is enough for me at the mom
 * Make file names without spaces makes it easier to reference.
 
 # Other Pages
+* [References](/References/References.md)
+* [Master Duel](/Master-Duel/Master-Duel.md)
 * [Bookmarks](/Bookmarks.md)
 * [Community](/Community.md)
+* [Game](/Game.md)
+* [Me](/Me.md)
 * [Packages](/Packages.md)
-* [References](/References/References.md)
 * [Shortcuts](/Shortcuts.md)
-* [Master Duel](/Master-Duel/Master-Duel.md)
+* [Software Pricing](/Software-Pricing.md)
