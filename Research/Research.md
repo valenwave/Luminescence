@@ -10,3 +10,6 @@
 * 145: Pork roast, Rack of lamb, Beef Brisket, Fish fillet
 * 160: Ground beef, egg dish
 * 165: Ground turkey, Turkey, Chicken, Leftovers. 
+
+# Leftovers
+* Eating leftovers within 3 or 4 days is a challenge. If you plan on making lunch prep for the week on Sunday, that leaves Friday with no leftovers. Also, a good way to enforce the time duration for the leftovers is to date when the food is made with scotch tape. 

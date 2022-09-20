@@ -17,5 +17,8 @@
 * [Themes](https://code.visualstudio.com/docs/getstarted/themes)
 * [Available Syntax Highlighting](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
+## Catering
+* [Fire & Rice](http://www.fireandrice.us/)
+
 # Pages
 * [Videos](/References/Videos.md)
