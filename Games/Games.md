@@ -86,7 +86,7 @@ Fun to play events that crosses over with something I enjoy, but the game is rep
 ## Master Duel
 I get great joy from evaluating cards and determining how cards can combo into each other. The high level competive scene is better at finding these combos than me and is really oppressive, but I can have fun if I don't strive to be at the top of the game. 
 
-I keep my notes on combos [here](/Master-Duel/Master-Duel.md)
+I keep my notes on combos [here](/Games/Master-Duel/Master-Duel.md)
 
 # Notes
 ## Fire Emblem
