@@ -76,5 +76,5 @@
 * Fleuret de Fleur
 
 # Pages
-* [Cards](/Master-Duel/Cards.md)
+* [Cards](Cards.md)
 
