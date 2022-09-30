@@ -1,5 +1,7 @@
 # Ghostrick
 * Direct attack
+* [Backrow](../Master-Duel.md#backrow)
+* [Trap](../Master-Duel.md#trap)
 * [Floodgate](../Master-Duel.md#floodgate)
 * [Conseal](../Master-Duel.md#conceal)
 
@@ -15,12 +17,15 @@
 # Ghostrick Field Spell
 ## Ghostrick Mansion
 * Half retaliation damage.
+* The only version that is splashable with other archetypes
 
 ## Ghostrick Museum
 * Pairs well with [Ghostrick Night](#ghostrick-night).
+* Only Ghostrick can attack
 
 ## Ghostrick Parade
 * Allows me to get lots of Ghostrick monsters, but I can't do damage in the process. 
+* My monsters can attack, but it won't do damage. 
 
 ---
 
@@ -106,10 +111,6 @@ Flip cards can be protected by Ghostrick Field Spells
 * Tokens can't be used for XYZ summons. 
 * If I can flip summon it, I can summon Formula Synchron to draw 1 card. 
 * If the opponent only attacked with one monster, I can link summon 4 on my turn. 
-
-# Swords of Revealing Light
-* Ghostrick: Ok, but I want them to stay face-down. Still a worthwile draw 3 though. 
-* +2
 
 ---
 
