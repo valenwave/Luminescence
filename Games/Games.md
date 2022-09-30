@@ -90,5 +90,5 @@ I keep my notes on combos [here](/Games/Master-Duel/Master-Duel.md)
 
 # Games
 * [Dragon Quest XI](Dragon-Quest-XI.md)
-* [Master Duel](Master-Duel/Master-Duel.md)
+* [Master Duel](MasterDuel/MasterDuel.md)
 * [The Elder Scrolls: Arena](Arena.md)

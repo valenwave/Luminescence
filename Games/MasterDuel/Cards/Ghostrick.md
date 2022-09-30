@@ -1,9 +1,11 @@
 # Ghostrick
-* Direct attack
 * [Backrow](../Master-Duel.md#backrow)
 * [Trap](../Master-Duel.md#trap)
 * [Floodgate](../Master-Duel.md#floodgate)
 * [Conseal](../Master-Duel.md#conceal)
+* [Direct attack]
+* [Field Spell]
+* [Continuous Trap]
 
 # Ghostrick Lantern
 * Negate attack handtrap. It doesn't flip the monster face down though and therefore doesn't lock the monster. 
