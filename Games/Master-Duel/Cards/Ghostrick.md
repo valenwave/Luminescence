@@ -1,34 +1,44 @@
 # Ghostrick
 * Direct attack
-* Flip
-* Hand traps
+* [Floodgate](../Master-Duel.md#floodgate)
+* [Conseal](../Master-Duel.md#conceal)
 
 # Ghostrick Lantern
 * Negate attack handtrap. It doesn't flip the monster face down though and therefore doesn't lock the monster. 
 
 # Ghostrick Yuki-onna
 * Floodgate on death instead of summon. 
+* Works okay without any of my field spells, but once I have a field spell, it is much harder for this to die and my effect to trigger.
 
 ---
 
-# Ghostrick Mansion
-* Level 3
+# Ghostrick Field Spell
+## Ghostrick Mansion
+* Half retaliation damage.
 
-# Ghostrick Museum
-* Level 2
-* Allows me to force monsters face down. 
+## Ghostrick Museum
+* Pairs well with [Ghostrick Night](#ghostrick-night).
 
-# Ghostrick Parade
-* Level 1
+## Ghostrick Parade
 * Allows me to get lots of Ghostrick monsters, but I can't do damage in the process. 
 
 ---
 
+# Ghostrick or Treat
+* Requires a [Ghostrick Field Spell](#ghostrick-field-spell)
+
+# Ghost-Go-Round
+* Either [flip facedown](../Master-Duel.md#flip-facedown) or force attack
+
 # Ghostrick Renovation
 * Allows me to switch field spells. It's nice, but I could use the room for something else. 
 
+# Ghostrick Night
+* Requires me to have a [Ghostrick](#ghostrick) monster face up in attack, which means it doesn't get the defense from [Ghostrick Museum](#ghostrick-museum) and requires me to play [negate attack](../Master-Duel.md#negate-attack). But the upgrade on [conseal](../Master-Duel.md#conceal) effects sounds worth it.
+* Provides [floodgate](../Master-Duel.md#floodgate) effect for cards put facedown. So it pairs well with [conseal](../Master-Duel.md#conceal) 
+
 # Ghostrick Scare
-* Not bad, but I need Ghostrick monsters, and the face-down isn't permanent
+* Pairs well with [Ghostrick Night](#ghostrick-night).
 
 # Ghostrick Vanish
 * Provides protection, though I already have plenty of protection from my field spells, and I rather have Ghostrick monsters. 

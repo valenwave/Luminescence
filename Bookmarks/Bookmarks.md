@@ -13,3 +13,6 @@
 * [Atom](https://atom.io/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+
+# Related
+* [Software Pricing](Software-Pricing.md)

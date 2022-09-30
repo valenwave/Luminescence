@@ -61,6 +61,11 @@
 * Tuning
 * Reinforcement of the Army
 
+# Floodgate
+* Floodgate
+* Swords of Concealing Light
+* Ghostrick Yuki-onna
+
 # Reborn
 * Monster Reborn
 * Call of the Hunted
@@ -76,5 +81,5 @@
 * Fleuret de Fleur
 
 # Pages
-* [Cards](Cards.md)
+* [Cards](Cards/Cards.md)
 
