@@ -76,12 +76,18 @@
 
 ---
 
+# Backrow
+* Eldlich the Golden Lord
+
 # Equip Spell
 * Power of Guardians
 * Fleuret de Fleur
+
+# Trap
+* Lord of the Heavenly Prison
+* [Altergeist]
 
 ---
 
 # Pages
 * [Cards](Cards/Cards.md)
-
