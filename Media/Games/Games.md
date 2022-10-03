@@ -72,16 +72,6 @@ When the core of the game is its puzzle, it's better to remove the jumping and m
 ### 2-D Platformers
 There's no way to really expand on this genre unless you make it easier or more difficult
 
-# Reviews
-
-## Fortnite
-Fun to play events that crosses over with something I enjoy, but the game is repetitive and is only fun if you're winning. 
-
-## Master Duel
-I get great joy from evaluating cards and determining how cards can combo into each other. The high level competive scene is better at finding these combos than me and is really oppressive, but I can have fun if I don't strive to be at the top of the game. 
-
-I keep my notes on combos [here](/Games/Master-Duel/Master-Duel.md)
-
 # Notes
 ## Fire Emblem
 ### Dishes
@@ -92,3 +82,4 @@ I keep my notes on combos [here](/Games/Master-Duel/Master-Duel.md)
 * [Dragon Quest XI](Dragon-Quest-XI.md)
 * [Master Duel](MasterDuel/MasterDuel.md)
 * [The Elder Scrolls: Arena](Arena.md)
+* [Reviews](Reviews.md)
