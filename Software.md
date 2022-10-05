@@ -47,3 +47,14 @@ There's no easy way to access on other devices. I have resorted to committing fo
 
 # MindMeister
 Supports up to 3 mind maps on the free version. This is enough for me at the moment. I just have the one map to use for planning out team meetings. 
+
+# Wireshark
+```
+ip.src == 10.150.0.103
+
+ip.dst != 10.149.2.41 && ip.dst != 10.150.0.255 && ip.dst != 255.255.255.255 && ip.dst != 104.43.22.36 && ip.dst != 10.150.0.82 && ip.dst != 142.250.191.234 && ip.dst != 20.189.173.14 && ip.dst != 20.189.173.9 && ip.dst != 10.149.2.1 && ip.dst != 20.44.10.123 && ip.dst != 10.149.2.11 && ip.dst != 13.69.116.104 && ip.dst != 52.168.112.67 && ip.dst != 52.191.219.104 && ip.dst != 52.96.163.50
+```
+
+# Links
+* [Wireshark](https://www.wireshark.org/#download)
+
