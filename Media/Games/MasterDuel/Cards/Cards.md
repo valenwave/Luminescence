@@ -1,6 +1,9 @@
 # Angel Trumpeter
 * Angel Trumpeter + [Level 4 Normal Monster](Master-Duel.md#level-4-normal-monster) = Magikey Spirit - Vepartu
 
+# Arrivalrivals 
+* Since it is a quick-play, I can attack and then tribute the monster. 
+
 # Astral Kuriboh
 * One of my favorite number support card. Allows me to help me get out...
 * Number 38: Hope Harbinger Dragon Titanic Galaxy 
@@ -37,6 +40,12 @@
 # Forbidden Droplet
 * [Benefits in Graveyard](Master-Duel.md#benefits-in-graveyard)
 
+# Heart of Clear Water 
+* Can make low attack monster Hexproof 
+ 
+# Jar Turtle 
+* Cool, make my Jar of Greed draw 2.  
+ 
 # Lefty Driver
 * Junk Speeder + Righty Driver + Lefty Driver => Trishula, Dragon of the Ice Barrier (2 turns)
 
@@ -63,9 +72,6 @@
 # Trishula, Dragon of the Ice Barrier
 * This one is not as easy to get out as Crystron Quariongandrax
 * Junk Speeder + Quillbolt Hedgehog + [Level 2 Tuner](#level-2-tuner)
-
-# Unexpected Dai
-* Galaxy Serpent
 
 # United We Stand
 * Junk Speeder can double it's attack to 3600 if I don't want to use it as a stepping stone for a higher Synchro summon. If I put it in my Extra Deck slot, that means I can have 6 monsters for an extra bonus of 4800. That's 8400 total. 

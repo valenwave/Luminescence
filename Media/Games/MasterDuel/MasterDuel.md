@@ -66,6 +66,10 @@
 * Swords of Concealing Light
 * Ghostrick Yuki-onna
 
+# Draw a card
+* Upstart Goblin
+* Jar of Greed
+
 # Reborn
 * Monster Reborn
 * Call of the Hunted
@@ -73,6 +77,14 @@
 # Spells and traps that works in the graveyard
 * Luminous Dragon Ritual
 * Spiritual Swords of Revealing Light
+
+---
+
+# Normal Monster
+* Angel Trumpeter
+* Clavkiys, the Magikey Skyblaster
+* Gunkan Suship Shari
+* Magicalibra
 
 ---
 
