@@ -130,3 +130,11 @@ Flip cards can be protected by Ghostrick Field Spells
 
 # Raigeki
 * Potential +4
+
+---
+
+# Link regulation
+* If my opponent is likely playing link monsters, I can't flip them face down. This also renders my field spells useless since I can't get my opponent in a position where I can do direct attacks on my opponent unless I can get my link summon out, but without protection, it is hard to keep the link monster alive. 
+
+# Scapeghost
+* I can summon lots of monsters for link summoning. 
