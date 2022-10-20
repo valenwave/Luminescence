@@ -138,3 +138,7 @@ Flip cards can be protected by Ghostrick Field Spells
 
 # Scapeghost
 * I can summon lots of monsters for link summoning. 
+
+--- 
+
+Ghostrick Parade: Allows me to get Ghostrick Lantern onto the field for free. 
