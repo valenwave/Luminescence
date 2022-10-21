@@ -27,6 +27,7 @@
 
 ## Ghostrick Parade
 * Allows me to get lots of Ghostrick monsters, but I can't do damage in the process. 
+* Allows me to get Ghostrick Lantern onto the field for free. So, this field spell at least lets me have 3 attack negates. Accesscode Talker aren't nice enough to allow me to keep my field spell though. 
 * My monsters can attack, but it won't do damage. 
 
 ---
@@ -139,6 +140,6 @@ Flip cards can be protected by Ghostrick Field Spells
 # Scapeghost
 * I can summon lots of monsters for link summoning. 
 
---- 
+---
 
-Ghostrick Parade: Allows me to get Ghostrick Lantern onto the field for free. 
+Ghostrick -> Ghostrick Festival + Wonder Wand: Nets zero in hand, but adds 2 monsters into the graveyard. Recommended to have Ghostrick Lanturn or Performpal Kuribohble to be able to defend against attacks. 
