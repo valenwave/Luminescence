@@ -1,8 +1,6 @@
 # Page Portal
 * [Community](/Community.md)
-* [Cooking](/Cooking.md)
 * [Bookmarks](/Bookmarks/Bookmarks.md)
-* [Languages](/Languages.md)
 * [Me](/Me.md)
 * [Media](/Media/Media.md)
 * [Packages](/Packages.md)
