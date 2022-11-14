@@ -37,5 +37,6 @@
 
 ---
 
-# Related
+# Pages
+* [Education](Education.md)
 * [Software Pricing](Software-Pricing.md)
