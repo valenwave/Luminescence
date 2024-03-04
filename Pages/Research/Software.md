@@ -45,8 +45,22 @@ There's no easy way to access on other devices. I have resorted to committing fo
 * Can insert screenshots via the `CTRL+V` shortcut
 * Can use Markdown
 
+# Dropbox Paper
+## Web App
+Needs further evaluation
+
+## Mobile App
+* Creating a new to a new document doesn't automatically link and just creates the document with the new title. You'll have to still go back and re-link. 
+
+### Upgrade from SimpleNote
+* Whenever I want to have different size headers. 
+* Whenever I want to have interlinking notes. 
+
 # MindMeister
 Supports up to 3 mind maps on the free version. This is enough for me at the moment. I just have the one map to use for planning out team meetings. 
+
+# SimpleNote
+Better to use a collection of Markdown files for organizing linking pages. 
 
 # Wireshark
 ```
