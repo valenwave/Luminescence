@@ -17,13 +17,18 @@ Supports up to 3 mind maps on the free version. This is enough for me at the mom
 
 # Notes
 ## Dropbox Paper
-* Checkboxes
+[x] Has a 
+* Checkboxes: Handles checkboxes as tasks and crosses out the item when checked. SimpleNote has checkboxes as well but handles them differently. Both has different applications.
+* Linking: Both SimpleNote and Dropbox Paper is good at linking pages. The disadvantage of linking with a Markdown collection is automatically setting the file path to each file. A file path which can be broken if the file moves. This isn't an issue with SimpleNote or Dropbox Paper though. 
+* Link jumping: Going from page to page is pretty slow. It is faster in SimpleNote. 
+* Links to existing pages doesn't always appear to be an option. At least in mobile. I really hope I can overcome this problem or else the linking becomes unusable. I can only hope that it is better on the web version. 
 
 ### Web App
 Needs further evaluation
 
 ### Mobile App
 * Creating a new to a new document doesn't automatically link and just creates the document with the new title. You'll have to still go back and re-link. 
+* It would be quicker to create pages and link to them with a full keyboard and quick access to CTRL+X, CTRL+V
 
 #### Upgrade from SimpleNote
 * Whenever I want to have different size headers. 
@@ -31,10 +36,12 @@ Needs further evaluation
 
 ## SimpleNote
 * Checkboxes
-* Better to use a collection of Markdown files for organizing linking pages. 
+* Linking: Both SimpleNote and Dropbox Paper is good at linking pages. The disadvantage of linking with a Markdown collection is automatically setting the file path to each file. A file path which can be broken if the file moves. This isn't an issue with SimpleNote or Dropbox Paper though. 
+* Links are more verbose than Dropbox Paper.
 
 ## Visual Studio Code
 * A Markdown and Wiki alone won't give the ability to check/uncheck items off a list dynamically. 
+* I can silo my pages into folders.  Whereas, in Dropbox, there are a lot of pages to sort through. Especially, if I'm planning to make a page per creature. 
 
 # Wireshark
 ```
