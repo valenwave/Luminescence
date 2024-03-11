@@ -3,8 +3,21 @@
 * Would love to have something that would generate a map for me and I can mark the map.
 
 ## SimpleNote
-One-off notes that I might want to refer back to when I want to search for it. 
+SimpleNote is my optional. Notes here are immedidately available on my phone. 
 
-### Checklist
-If I want a single document checklist
-* Grocery list: Checklist of necessities and whether I need more or not.
+Checkboxes and internal links
+* Groceries/Essentials
+* Restaurant Orders
+* Software Kit
+
+## Dropbox Paper
+Allows for more organization and styling, but isn't available in my work network. 
+
+* Dragon Quest Monsters: Dark Prince
+* Fire Emblem Heroes
+    * Seals
+
+## GitHub
+Allows for a lot of flexibility but has to be committed and pushed into the repository to be available on my phone.
+
+* YouTube Music Links

@@ -17,8 +17,7 @@ Supports up to 3 mind maps on the free version. This is enough for me at the mom
 
 # Notes
 ## Dropbox Paper
-[x] Has a 
-* Checkboxes: Handles checkboxes as tasks and crosses out the item when checked. SimpleNote has checkboxes as well but handles them differently. Both has different applications.
+* Checkboxes: Handles checkboxes as tasks. Philosophy is that you check items that you no longer have to think about (but still visible if you want to focus on it)
 * Linking: Both SimpleNote and Dropbox Paper is good at linking pages. The disadvantage of linking with a Markdown collection is automatically setting the file path to each file. A file path which can be broken if the file moves. This isn't an issue with SimpleNote or Dropbox Paper though. 
 * Link jumping: Going from page to page is pretty slow. It is faster in SimpleNote. 
 * Links to existing pages doesn't always appear to be an option. At least in mobile. I really hope I can overcome this problem or else the linking becomes unusable. I can only hope that it is better on the web version. 
@@ -35,13 +34,20 @@ Needs further evaluation
 * Whenever I want to have interlinking notes. 
 
 ## SimpleNote
-* Checkboxes
+* Checkboxes: Handles checkboxes as makers. I like using this version for groceries, because I have a list of all items that I might enjoy having and I check the items that I actually need to get.
 * Linking: Both SimpleNote and Dropbox Paper is good at linking pages. The disadvantage of linking with a Markdown collection is automatically setting the file path to each file. A file path which can be broken if the file moves. This isn't an issue with SimpleNote or Dropbox Paper though. 
 * Links are more verbose than Dropbox Paper.
 
 ## Visual Studio Code
 * A Markdown and Wiki alone won't give the ability to check/uncheck items off a list dynamically. 
 * I can silo my pages into folders.  Whereas, in Dropbox, there are a lot of pages to sort through. Especially, if I'm planning to make a page per creature. 
+
+## Google Docs
+Doesn't have checkboxes. 
+
+# Visual Studio
+* Lowercase: CTRL+U
+* Uppercase: CTRL+SHIFT+U
 
 # Wireshark
 ```
