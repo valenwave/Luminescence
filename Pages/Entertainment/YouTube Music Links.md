@@ -1,10 +1,10 @@
 # Artist
+* [Hoang](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ) (9)
+* [Kurt Hugo Schneider](https://music.youtube.com/channel/UC-u3msJ-G8xYr931alnM7dw) (6)
+* [Nelly Furtado](https://music.youtube.com/channel/UCWV94Z763GSdhLQ8WIb2JRQ) (6)
+* [Nelly](https://music.youtube.com/channel/UCggm1vqFLAJdYDTc1DQoVKg) (5)
 * [Elise Trouw](https://music.youtube.com/channel/UCOMfVxzGm8YgpmBuO8hT2qA)
-* [Hoang](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
-* [Kurt Hugo Schneider](https://music.youtube.com/channel/UC-u3msJ-G8xYr931alnM7dw)
-* [Nelly](https://music.youtube.com/channel/UCggm1vqFLAJdYDTc1DQoVKg)
-* [Nelly Furtado](https://music.youtube.com/channel/UCWV94Z763GSdhLQ8WIb2JRQ)
-* One Republic
+* [One Republic](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
 * Justin Beiber
 * Ed Sherren
 * Taylor Swift
@@ -17,3 +17,13 @@
 * ~~[SABAI](https://music.youtube.com/channel/UC9ZzEmhbwJBBC8fbuBOzSkQ)~~
 
 # Albums
+* [One Republic - Human (Deluxe)](https://music.youtube.com/playlist?list=OLAK5uy_lEQdC1XEXKpzvg8eVL4C8jY1LC1BU9_es)
+* [One Republic - Oh My My](https://music.youtube.com/playlist?list=OLAK5uy_n_MzTtM4XzeNwEpuZfknlziUua1LFlJdg)
+
+# Songs
+## Base
+* [Oh My My (feat. Cassius) - OneRepublic](https://music.youtube.com/watch?v=xaSl0EB2x_M)
+
+## Cover Worthy
+* [Counting Stars - One Republic](https://music.youtube.com/watch?v=_GWKkqNoyEA)
+* [Counting Stars - Alex Goot, ATC, Kurt Hugo Schneider](https://music.youtube.com/watch?v=uYMiArdGxD8)
