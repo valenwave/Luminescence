@@ -1,13 +1,16 @@
 # Dragon Quest Monsters: Dark Prince
-The core gameplay loop: 
+
+The core gameplay loop:
+
 * Catch monsters
 * Breed monsters to get something you don't have.
-* If your new monsters is stronger than in your party, add it to your party. 
-* Traverse back to old areas to level up your new monster. 
+* If your new monsters is stronger than in your party, add it to your party.
+* Traverse back to old areas to level up your new monster.
 
 Categories
+
 * Graphics: Some of the designs are fun and cute. Good to look at, but nothing to be impressed by.
-* Story: I've skipped almost every cutscene I could, and it has been great because I can get back to monster hunting and breeding. 
+* Story: I've skipped almost every cutscene I could, and it has been great because I can get back to monster hunting and breeding.
 
 Checklist
 [x] Note taking game: You'll want to keep track of where monsters are and what season they appear in as well as breeding combinations for monsters you can't easily get yet depending on where you are in the game. 

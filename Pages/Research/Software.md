@@ -19,24 +19,26 @@ Supports up to 3 mind maps on the free version. This is enough for me at the mom
 ## Dropbox Paper
 * Checkboxes: Handles checkboxes as tasks. Philosophy is that you check items that you no longer have to think about (but still visible if you want to focus on it)
 * Linking: Both SimpleNote and Dropbox Paper is good at linking pages. The disadvantage of linking with a Markdown collection is automatically setting the file path to each file. A file path which can be broken if the file moves. This isn't an issue with SimpleNote or Dropbox Paper though. 
-* Link jumping: Going from page to page is pretty slow. It is faster in SimpleNote. 
-* Links to existing pages doesn't always appear to be an option. At least in mobile. I really hope I can overcome this problem or else the linking becomes unusable. I can only hope that it is better on the web version. 
+* Link jumping: Negative. Going from page to page is pretty slow. It is faster in SimpleNote. 
+* Internal links: Negative. Links to existing pages doesn't always appear to be an option. At least in mobile. I really hope I can overcome this problem or else the linking becomes unusable.
+* Search: Negative. Something is off about the search. I can create a new file with text and search for the text and it won't show up in the search results. Maybe there's a delay, but the delay doesn't exist on SimpleNote. 
 
-### Web App
-Needs further evaluation
-
-### Mobile App
-* Creating a new to a new document doesn't automatically link and just creates the document with the new title. You'll have to still go back and re-link. 
-* It would be quicker to create pages and link to them with a full keyboard and quick access to CTRL+X, CTRL+V
-
-#### Upgrade from SimpleNote
+### Upgrade from SimpleNote
 * Whenever I want to have different size headers. 
 * Whenever I want to have interlinking notes. 
 
+### Limitations
+* Checking a check box will strike out the item
+* Color coding
+
 ## SimpleNote
-* Checkboxes: Handles checkboxes as makers. I like using this version for groceries, because I have a list of all items that I might enjoy having and I check the items that I actually need to get.
 * Linking: Both SimpleNote and Dropbox Paper is good at linking pages. The disadvantage of linking with a Markdown collection is automatically setting the file path to each file. A file path which can be broken if the file moves. This isn't an issue with SimpleNote or Dropbox Paper though. 
 * Links are more verbose than Dropbox Paper.
+* Tag removals: Negative. I can normally delete tags, but there are some tags I can't delete for some reason. 
+
+### Checkboxes
+* Handles checkboxes as makers. I like using this version for groceries, because I have a list of all items that I might enjoy having and I check the items that I actually need to get.
+* Freedom to choose whether you want an item crossed out by using the strikeout Markdown syntax, and the Markdown preview mode. 
 
 ## Visual Studio Code
 * A Markdown and Wiki alone won't give the ability to check/uncheck items off a list dynamically. 
