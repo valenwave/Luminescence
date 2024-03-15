@@ -1,4 +1,6 @@
-# Dragon Quest Monsters: Dark Prince
+# Games
+
+## Dragon Quest Monsters: Dark Prince
 
 The core gameplay loop:
 
@@ -15,18 +17,22 @@ Categories
 Checklist
 [x] Note taking game: You'll want to keep track of where monsters are and what season they appear in as well as breeding combinations for monsters you can't easily get yet depending on where you are in the game. 
 
-# Marvel's Spider-Man 2
-Unfocused but a fun time. It doesn't stick to a gendre and ties to do a little of everything: Open world, story focused, action, stealth, puzzler. 
+## Marvel's Spider-Man 2
+
+Unfocused but a fun time. It doesn't stick to a gendre and ties to do a little of everything: Open world, story focused, action, stealth, puzzler.
 
 Categories
+
 * Graphics: A lot of love and attention was put into the game. The suits are fun to collect and wear. The ray tracing is beautiful. The face models isn't as good as The Last of Us.
 * Story: Great fan-fiction. You'll see familiar characters in different roles providing for a refreshing experience for anyone a fan of the movies.
 
 Checklist
 [x] Fun to complete: Clear markers on where things are, you just have to go to them. 
 
-# Template
+## Template
+
 Categories
+
 * Graphics:
 * Story:
 

@@ -23,14 +23,11 @@ No active open transactions.
 DBCC execution completed. If DBCC printed error messages, contact your system administrator.
 ```
 
-If there are open active, it will give you the SPID. 
+If there are open active, it will give you the SPID.
 
-How to `kill SPID`? 
+How to `kill SPID`?
 
 ```sql
 KILL {SPID}
 KILL 84
 ```
-
-# Valid hex characters
-0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F
