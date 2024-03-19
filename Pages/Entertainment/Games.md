@@ -27,7 +27,7 @@ Categories
 * Story: Great fan-fiction. You'll see familiar characters in different roles providing for a refreshing experience for anyone a fan of the movies.
 
 Checklist
-[x] Fun to complete: Clear markers on where things are, you just have to go to them. 
+[x] Fun to complete: Clear markers on where things are, you just have to go to them.
 
 ## Template
 
