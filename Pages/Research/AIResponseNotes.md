@@ -104,3 +104,13 @@ Custom Boards: If you have a personal workflow that relies heavily on collapsed 
 Board Sections: Trello's board sections can be a good way to organize lists visually. You can group related lists together and potentially collapse entire sections to reduce clutter while maintaining a shared view for your team.
 Communication: Discuss your reasoning for collapsing lists with your team. Maybe there's a way to achieve a similar focus through filtering or using board sections collaboratively.
 By exploring these alternatives and fostering open communication with your team, you can find ways to manage your Trello board effectively without impacting the visibility for your colleagues.
+
+## How does Rick control the central finite curve?
+
+Rick doesn't directly control the Central Finite Curve in the way you might think. Here's the breakdown:
+
+The Curve's Function: The Central Finite Curve is a walled garden within the infinite multiverse. It contains realities where a Rick exists, specifically realities where Rick is the smartest being.
+Accidental Creation: The show doesn't delve deeply into the Curve's origin, but it's hinted that Rick's portal gun technology and the actions of various Ricks unintentionally created this section.
+Self-Fulfilling System: The Curve maintains itself by filtering access. Portal guns are tuned to only travel within the Curve, ensuring Ricks remain the smartest beings they encounter.
+Council of Ricks: Rick C-137 (our Rick) might have been involved in the early development of the Citadel, a Rick-run society within the Curve. However, other Ricks took control and maintain the status quo.
+So, Rick benefits from the Curve but doesn't directly control it.  Evil Morty, however, figured out the Curve's limitations and escaped it in the season 5 finale, potentially shattering the system Rick thrived in.
