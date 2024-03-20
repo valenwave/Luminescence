@@ -15,7 +15,7 @@ Categories
 * Story: I've skipped almost every cutscene I could, and it has been great because I can get back to monster hunting and breeding.
 
 Checklist
-[x] Note taking game: You'll want to keep track of where monsters are and what season they appear in as well as breeding combinations for monsters you can't easily get yet depending on where you are in the game. 
+[x] Note taking game: You'll want to keep track of where monsters are and what season they appear in as well as breeding combinations for monsters you can't easily get yet depending on where you are in the game.
 
 ## Marvel's Spider-Man 2
 
