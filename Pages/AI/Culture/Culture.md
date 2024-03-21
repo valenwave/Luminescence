@@ -1,5 +1,9 @@
 # Culture
 
+* [Found Family](FoundFamily.md)
+* [Music](Music.md)
+* [Soylent Green](SoylentGreen.md)
+
 ## How does Rick control the central finite curve?
 
 Rick doesn't directly control the Central Finite Curve in the way you might think. Here's the breakdown:
@@ -39,21 +43,51 @@ TV Guide or Listings: You can check your TV guide or online listings for your ca
 Social Media: Adult Swim is active on social media platforms like Twitter and Instagram. They often announce upcoming marathons and special events through these channels.
 If you know the name of the show you're interested in, you can search online or on the Adult Swim website to see if there are any marathons planned for that specific program.
 
-## How are there so many Kids Bop CDs?
+## Billiards
 
-There are several reasons why there are so many Kidz Bop CDs:
+Billiards and pool are related but not exactly the same. Here's the breakdown of why billiards is also sometimes called pool:
 
-Frequent Releases: Kidz Bop releases new music and albums weekly, with a "greatest hits" style compilation released annually (called "Kidz Bop 2024" for the current year). This consistent release schedule ensures a steady stream of new content for their target audience.
-Multiple Albums per Year: In addition to the annual compilation, Kidz Bop sometimes releases themed albums focused on specific genres or holidays. This further expands their overall library.
-Long Running Franchise: Kidz Bop has been around since 1997, making it a long-running brand. Over the years, they've released dozens of albums, contributing to the high total number.
-Target Audience: Kidz Bop caters to a specific audience – children who might not be ready for explicit lyrics in popular music. This niche market allows them to consistently produce content that appeals to their target demographic.
-Business Model: Their business model relies on selling albums, digital downloads, and streaming subscriptions. The constant stream of new content incentivizes parents to keep buying new albums to give their kids access to the latest versions of popular songs.
-Here are some additional points to consider:
+Billiards is the broader term: Billiards refers to any cue sport played on a table with balls and a cue stick. This encompasses various games like carom billiards (where the goal is to carom, or hit, two or more balls together), snooker, and pool itself.
 
-Digital Age: While Kidz Bop started with physical CDs, they've adapted to the digital age and offer their music through streaming services and downloads. This expands their reach and potential customer base.
-Brand Recognition: Over the years, Kidz Bop has become a recognizable brand for parents looking for kid-friendly versions of popular music. This brand recognition allows them to continue releasing new albums with a built-in audience.
-So, the sheer volume of Kidz Bop CDs is a result of a combination of factors, including frequent releases, catering to a specific audience, a long-running history, and a business model that thrives on consistent content creation.
+Pool refers specifically to pocket billiards: Pool, also known as pocket billiards, is a specific type of billiards game played on a table with pockets. The objective is to pot (sink) your assigned balls into designated pockets using the cue ball.
 
-## Is the "One Night in Malibu" album a live album?
+The Origin of "Pool":
 
-Yes, "One Night in Malibu" by OneRepublic is a live album. It features recordings of their performance in Malibu, California in October 2021, which was livestreamed via Moment House. The album includes live versions of their popular songs and was released in February 2022.
+The term "pool" in relation to billiards likely comes from the 19th century and the rise of poolrooms. These were establishments where people could gather to play billiards, gamble on horse races, and socialize.
+
+Connection to Gambling:  Back then, the word "pool"  referred to a collective bet or stake placed in gambling games like horse racing. Pool halls often had billiards tables, and patrons might play a few rounds between races.
+
+Shifting Terminology: Over time, the term "pool" became associated specifically with the billiards games played in these pool halls, particularly pocket billiards which was the most popular variation.
+
+So, why the confusion?
+
+Pool Became Synonymous with Billiards:  In many parts of the world, especially North America, "pool" became synonymous with pocket billiards, the most common game played on billiards tables. People started using "pool" as a general term for any game played on a pool table, even if it wasn't technically a "pool" game according to the broader definition of billiards.
+
+Marketing and Popularity: The widespread popularity of pool tables and games like eight-ball pool further solidified the use of "pool" as a catch-all term for billiards, especially in casual settings.
+
+In essence:
+
+Billiards is the umbrella term for cue sports played on a table.
+Pool specifically refers to pocket billiards games played on a table with pockets.
+The term "pool" became widely used to refer to billiards in general, due to the historical association with pool halls and the popularity of pocket billiards games.
+
+## What does behind the 8 ball mean?
+
+The expression "behind the eight ball" is a common idiom that means someone is in a difficult, unfavorable, or troublesome situation. It often implies a feeling of being stuck or having limited options.
+
+Here's the origin of the expression:
+
+Billiards Connection: It's thought to be derived from the game of eight-ball pool, where the eight ball (the black ball) is the one that needs to be pocketed last to win the game.
+
+Literal Meaning: If the cue ball (the ball you hit) lands between your object balls and the eight ball, it can be difficult or even impossible to make a successful shot without accidentally pocketing the eight ball early and losing the game.
+Figurative Meaning: This situation became a metaphor for being in a tricky spot where any action you take might lead to a worse outcome.
+Alternative Theory:  Another theory suggests the expression comes from the scoring system in a now-obscure pool game called kelly pool, where balls numbered higher than eight were considered "behind" and thus disadvantaged.
+
+How the expression is used:
+
+"Sarah missed her deadline again and is now behind the eight ball with her boss."
+"The company's finances are in trouble, and they're looking for ways to get out from behind the eight ball."
+"He found himself behind the eight ball after the car broke down in the middle of nowhere."
+In essence:
+
+Behind the eight ball is a colorful idiom that conveys a sense of difficulty, disadvantage, or being stuck in a tough situation.

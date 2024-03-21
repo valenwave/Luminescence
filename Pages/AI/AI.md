@@ -1,5 +1,11 @@
 # AI Responses
 
+Responses are generated from Gemini.
+
+Focused topics:
+
+* [Computing](Computing.md)
+* [Culture](Culture/Culture.md)
 * [Gardening](Gardening.md)
 
 ## Why does water evaporate at room temperature?
@@ -20,26 +26,6 @@ Temperature and Evaporation: While higher temperatures generally increase the ki
 Surface Area: The larger the surface area of the water, the more molecules are exposed to the air and have the opportunity to escape, thus increasing the rate of evaporation.
 Humidity: The amount of water vapor already present in the air (humidity) also affects evaporation. If the air is very humid (already saturated with water vapor), evaporation will slow down because there's less room for additional water molecules to enter the gas phase.
 In summary, water molecules in constant motion, with some having enough energy to overcome the intermolecular forces at room temperature, is why water evaporates even at room temperature. The rate of evaporation is then influenced by factors like surface area and humidity.
-
-## Can my other team members on Trello see the lists I collapsed?
-
-No, your other team members on Trello cannot see the lists you collapsed. When you collapse a list in Trello, it only affects your individual view of the board. Other team members will see all lists expanded by default.
-
-Trello currently doesn't have a feature that synchronizes collapsed lists across users. This means any customization you make to your board view, including collapsing lists, is specific to you.
-
-Here's a breakdown of what happens when you collapse a list:
-
-Your View: The list title and cards within it are hidden, minimizing clutter and helping you focus on specific parts of the board.
-Teammates' View: Other team members will still see the collapsed list title on the board. Clicking on the collapsed title will expand the list and show all its cards, just like it normally appears.
-Workarounds and Alternatives:
-
-While there's no direct way to share collapsed list views, here are some workarounds you and your team can consider:
-
-Filters: Trello offers filters that allow you to hide specific cards based on criteria like labels or members assigned. This can help you focus on relevant information without collapsing entire lists.
-Custom Boards: If you have a personal workflow that relies heavily on collapsed lists, you can create a separate board for yourself and keep the main team board with all lists expanded for better collaboration.
-Board Sections: Trello's board sections can be a good way to organize lists visually. You can group related lists together and potentially collapse entire sections to reduce clutter while maintaining a shared view for your team.
-Communication: Discuss your reasoning for collapsing lists with your team. Maybe there's a way to achieve a similar focus through filtering or using board sections collaboratively.
-By exploring these alternatives and fostering open communication with your team, you can find ways to manage your Trello board effectively without impacting the visibility for your colleagues.
 
 ## I found a soft spot inside my apple. What happened?
 
