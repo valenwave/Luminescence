@@ -4,7 +4,7 @@ Responses are generated from Gemini.
 
 Focused topics:
 
-* [Computing](Computing.md)
+* [Computing](Computing/Computing.md)
 * [Culture](Culture/Culture.md)
 * [Gardening](Gardening.md)
 

@@ -1,5 +1,7 @@
 # Computing
 
+* [Internet](Internet.md)
+
 ## Can my other team members on Trello see the lists I collapsed?
 
 No, your other team members on Trello cannot see the lists you collapsed. When you collapse a list in Trello, it only affects your individual view of the board. Other team members will see all lists expanded by default.
@@ -143,3 +145,28 @@ Documentation and Videos: Consider creating detailed notes or even video recordi
 Important Note:  It's always advisable to check the copyright laws in your region before attempting any emulation or game backups. Downloading copyrighted material without permission can be illegal.
 
 While there's no single perfect solution, these methods can help you  partially archive  your 3DS game collection. Remember, emulation is still an evolving field, so there might be better tools or techniques available in the future.
+
+## Is Angi a good service?
+
+Angi, formerly Angie's List, can be a good service depending on your priorities and the specific contractor you choose through the platform. Here's a breakdown of its pros and cons to help you decide:
+
+Pros:
+
+Large Network of Verified Contractors: Angi boasts a large network of pre-vetted home service professionals across various categories.
+Reviews and Ratings: The platform provides customer reviews and ratings for contractors, allowing you to compare and choose based on past experiences.
+Background Checks: Angi claims to conduct background checks on contractors, offering some peace of mind. (It's important to note that background checks don't guarantee a perfect contractor.)
+Potential for Dispute Resolution: Angi offers a dispute resolution process if you encounter issues with an Angi-connected contractor.
+Convenience: Angi provides a one-stop shop to find, compare, and potentially hire contractors, streamlining the process.
+Cons:
+
+Quality Can Vary: While Angi vets contractors, the quality of service can still depend on the individual you choose. Reading reviews and checking references is crucial.
+Not a Guarantee of Success: Angi doesn't directly employ the contractors. There's still a risk of hiring a bad contractor, so do your due diligence.
+Potential for Higher Costs: Some contractors might factor in the cost of Angi's service into their quotes, potentially leading to slightly higher prices. It's wise to compare quotes from Angi contractors with independent ones.
+Mixed Reviews: Customer experiences with Angi can vary. While some users find good contractors, others might encounter issues.
+Here are some additional things to consider:
+
+Get Multiple Quotes: Don't rely solely on Angi. Get quotes from several contractors, both from Angi and independently, to compare prices and services offered.
+Read Reviews Carefully: Read Angi reviews critically, paying attention to details and potential red flags mentioned by past customers.
+Do Your Research: Even with Angi's pre-vetting process, research the specific contractor you're considering. Check their license, insurance, and online reviews from other platforms.
+Don't Skip Contracts: Always have a written contract with the chosen contractor outlining the scope of work, timeline, and costs to avoid misunderstandings.
+Overall, Angi can be a useful tool to find and compare potential contractors, but it's not a guaranteed path to perfect service.  Do your due diligence, compare quotes, and prioritize thorough research before hiring anyone for your home service needs.
