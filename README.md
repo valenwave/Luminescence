@@ -1,6 +1,6 @@
 # Book
 
 * [AI](/Pages/AI/AI.md)
-* [Games](/Pages/Entertainment/Games.md)
-* [Online Shopping](/Pages/Entertainment/OnlineShopping.md)
+* [Bookmarks](/Pages/Bookmarks.md)
+* [Games](/Pages/Games.md)
 * [Software Notes](/Pages/Research/Software.md)
