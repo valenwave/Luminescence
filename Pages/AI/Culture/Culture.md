@@ -156,3 +156,24 @@ For Free Listening: YouTube Music offers more control over on-demand music playb
 For YouTube Integration: YouTube Music seamlessly connects with YouTube for a more video-centric experience.
 For Value: Consider bundled plans (e.g., YouTube Music with YouTube Premium) if you use both services frequently.
 Ultimately, the best way to decide is to try out both free tiers and see which one suits your listening habits and preferences better.
+
+## What's highlander rules?
+
+In the Highlander franchise, there are immortals who can only be killed by decapitation. When an immortal dies a violent death, they are reborn with an ageless and indestructible body.  These immortals fight each other throughout history in a deadly game with a few key rules:
+
+The Core Premise:
+
+There Can Be Only One: This is the ultimate goal of the game. The last remaining immortal will claim a mysterious prize, though the exact nature of the prize is never fully explained in the franchise.
+The Rules of Engagement:
+
+No Fighting on Holy Ground: Immortals are forbidden from fighting on sacred grounds of any religion. This is considered a sacred tradition and violation can result in a loss of power or even death for the offending immortal.
+One-on-One Duels: Battles between immortals are supposed to be fair duels, one versus one. Using help from others or attacking a weakened opponent is frowned upon.
+Additional Rules (from the Series):
+
+The Quickening: When an immortal decapitates another, they absorb the loser's power and memories in a surge of energy known as the Quickening. This can make the victor stronger and grant access to the loser's skills and knowledge.
+New Immortals: When a person is mortally wounded but has the potential to be immortal, they are "awakened" upon death and become a new immortal. Existing immortals are obligated to train these newly awakened immortals in the ways of the game.
+It's important to note:
+
+These rules are not strictly enforced: There have been instances of immortals breaking the rules throughout the franchise.
+The movies and series differ slightly: The core rules are consistent, but some details and interpretations might vary between the Highlander film series and the Highlander: The Series television show.
+If you're interested in learning more about the world of Highlander, you can watch the movies or the TV series, or explore the franchise online.

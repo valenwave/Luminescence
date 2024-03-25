@@ -29,6 +29,8 @@ Categories
 Checklist
 [x] Fun to complete: Clear markers on where things are, you just have to go to them.
 
+Nothing worth taking notes about.
+
 ## Template
 
 Categories
