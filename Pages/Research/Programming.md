@@ -43,6 +43,12 @@ Also, what you have initiated is an explicit transaction, which should be explic
 select * from sys.dm_tran_active_transactions order by transaction_begin_time desc
 ```
 
+## Git Documentation
+
+* Markdown lint has a folder called doc
+* SimpleNote repository has a folder called docs
+* File and folders names are generally all lowercase.
+
 ## Tells you the open transactions
 
 ```sql
