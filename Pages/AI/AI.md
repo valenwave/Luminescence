@@ -63,3 +63,38 @@ There might be some very rare situations where you could encounter blinds sold w
 Custom Blinds: If you were having vertical blinds custom-made, you might have the option to purchase the slats and headrail separately. However, this wouldn't be a common scenario.
 Salvaged Materials: If you were looking for used blinds or blinds from a salvage yard, you might find them without the headrail. But using salvaged blinds would come with challenges of finding compatible parts and ensuring functionality.
 Overall, it's safe to assume that vertical blinds will come with the headrail included when purchased new from reputable retailers.
+
+## What is Bronchitis?
+
+Bronchitis is an inflammation of the bronchial tubes, the airways that carry air to your lungs. This inflammation narrows the airways, making it difficult to breathe and causing a cough to clear mucus buildup. There are two main types of bronchitis:
+
+Acute Bronchitis: This is the most common type, often caused by a viral infection similar to the common cold or flu. Symptoms typically appear after an upper respiratory infection and usually clear up within a few weeks with proper care.
+
+Chronic Bronchitis: This is a long-term condition defined by a cough with mucus production for at least three months in a year for two years in a row.  Smoking is the leading cause, but exposure to air pollutants or dust can also be risk factors.
+
+Here's a summary of the key points about Bronchitis:
+
+Symptoms:
+
+Cough (dry or productive with mucus)
+Chest congestion
+Wheezing (a whistling sound while breathing)
+Shortness of breath
+Low-grade fever (more common with acute bronchitis)
+Feeling tired or run down
+Causes:
+
+Acute Bronchitis: Viruses are the most common culprit, but bacterial infections can also be a cause.
+Chronic Bronchitis: Primarily caused by smoking, with long-term exposure to air pollutants or dust as potential contributing factors.
+Diagnosis:
+
+Doctors typically diagnose bronchitis based on symptoms, a physical examination, and sometimes a chest X-ray or other tests to rule out pneumonia or other conditions.
+Treatment:
+
+Acute Bronchitis: There's no specific cure for viral bronchitis. Treatment focuses on relieving symptoms with rest, over-the-counter medications (cough suppressants or expectorants), and fluids. In some cases, inhalers might be prescribed for wheezing.
+Chronic Bronchitis: There's no cure, but treatments can manage symptoms and prevent flare-ups. These may include medications like inhalers, quitting smoking (if applicable), and pulmonary rehabilitation exercises to improve lung function.
+Prevention:
+
+Frequent handwashing and avoiding close contact with sick people can help prevent viral infections that lead to acute bronchitis.
+Smoking cessation is crucial to prevent chronic bronchitis and protect your overall lung health.
+If you have a cough that lasts longer than a few weeks, or experience difficulty breathing, chest pain, or fever, consult a doctor for proper diagnosis and treatment.
