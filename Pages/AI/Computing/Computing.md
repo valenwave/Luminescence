@@ -170,3 +170,28 @@ Read Reviews Carefully: Read Angi reviews critically, paying attention to detail
 Do Your Research: Even with Angi's pre-vetting process, research the specific contractor you're considering. Check their license, insurance, and online reviews from other platforms.
 Don't Skip Contracts: Always have a written contract with the chosen contractor outlining the scope of work, timeline, and costs to avoid misunderstandings.
 Overall, Angi can be a useful tool to find and compare potential contractors, but it's not a guaranteed path to perfect service.  Do your due diligence, compare quotes, and prioritize thorough research before hiring anyone for your home service needs.
+
+## What options do I have for online spreadsheets?
+
+There are many online spreadsheet applications available, each with its own strengths and weaknesses. Here are a few of the most popular options:
+
+Google Sheets:
+
+Google Sheets is a free online spreadsheet application that is part of the Google Docs suite. It offers a familiar spreadsheet interface that is similar to Microsoft Excel. Google Sheets integrates seamlessly with other Google applications, such as Google Drive and Google Docs, making it easy to collaborate on spreadsheets with others.
+
+Microsoft Excel Online:
+
+Microsoft Excel Online is the free web-based version of Microsoft Excel. It offers a subset of the features found in the full desktop version of Excel, but it is still a powerful tool for creating and editing spreadsheets. Excel Online integrates with other Microsoft applications, such as OneDrive and SharePoint, making it a good choice for businesses that already use Microsoft products.
+
+Zoho Sheet:
+
+Zoho Sheet is a free online spreadsheet application that offers a wide range of features, including support for formulas, functions, and pivot tables. Zoho Sheet also includes a number of collaboration features, such as real-time co-editing and chat.
+
+Airtable:
+
+Airtable is a hybrid spreadsheet/database application that allows you to create tables with custom fields and views. Airtable is a good choice for projects that require more than just basic spreadsheet functionality.
+
+Smartsheet:
+
+Smartsheet is a project management application that includes a spreadsheet component. Smartsheet is a good choice for teams that need to collaborate on projects that involve data analysis.
+The best online spreadsheet application for you will depend on your specific needs. If you need a free and easy-to-use option, Google Sheets or Microsoft Excel Online are good choices. If you need a more powerful spreadsheet application with a wider range of features, Zoho Sheet or Airtable may be a better option. If you need a spreadsheet application that is part of a larger project management system, Smartsheet may be a good choice.
