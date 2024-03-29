@@ -5,7 +5,18 @@
 
 ## Dotnet Documentation
 
+* [AesCryptoServiceProvider Class](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aescryptoserviceprovider?view=net-6.0)
+* [AesCryptoServiceProvider.IV Property](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aescryptoserviceprovider.iv?view=net-6.0)
+* [AesCryptoServiceProvider.Key Property](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aescryptoserviceprovider.key?view=net-6.0)
+* [AesCryptoServiceProvider.KeySize Property](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aescryptoserviceprovider.keysize?view=net-6.0)
+* [AesCryptoServiceProvider.Mode Property](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aescryptoserviceprovider.mode?view=net-6.0)
+* [AesCryptoServiceProvider.Padding Property](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aescryptoserviceprovider.padding?view=net-6.0)
 * [Enuemrable.Take Method](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.take?view=net-8.0)
+* [HttpClient Class](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-7.0)
+* [Migrate from Newtonsoft.Json to System.Text.Json](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/migrate-from-newtonsoft?pivots=dotnet-6-0)
+* [PaddingMode Enum](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.paddingmode?view=net-6.0)
+* [Rijndael Class](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.rijndael?view=net-6.0)
+* [RijndaelManaged Class](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.rijndaelmanaged?view=net-6.0)
 * [String.Substring Method](https://learn.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-8.0#system-string-substring(system-int32))
 
 ## Json.NET Documentation
