@@ -3,6 +3,11 @@
 * [CareerFoundry](https://careerfoundry.com/)
 * [W3Schools Try It](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_iframe)
 
+## Dotnet Documentation
+
+* [Enuemrable.Take Method](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.take?view=net-8.0)
+* [String.Substring Method](https://learn.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-8.0#system-string-substring(system-int32))
+
 ## Json.NET Documentation
 
 * [Json.NET Documentation](https://www.newtonsoft.com/json/help/html/Introduction.htm)
