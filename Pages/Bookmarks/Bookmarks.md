@@ -17,5 +17,6 @@
 - [Coggle.it](https://coggle.it/)
 - [DotNetFiddle](https://dotnetfiddle.net/)
 - [Json Formatter](https://jsonformatter.org/json-pretty-print)
+- [Json Minifier](https://codebeautify.org/jsonminifier)
 - [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
 - [Zoho](https://www.zoho.com/)
