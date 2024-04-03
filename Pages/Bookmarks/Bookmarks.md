@@ -5,6 +5,8 @@
 ## General
 
 - [CareerFoundry](https://careerfoundry.com/)
+- [Free Code camp](https://www.freecodecamp.org/)
+- [Khan Academy](https://www.khanacademy.org/)
 - [W3Schools Try It](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_iframe)
 
 ## Quick Reference
