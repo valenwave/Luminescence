@@ -195,3 +195,23 @@ Smartsheet:
 
 Smartsheet is a project management application that includes a spreadsheet component. Smartsheet is a good choice for teams that need to collaborate on projects that involve data analysis.
 The best online spreadsheet application for you will depend on your specific needs. If you need a free and easy-to-use option, Google Sheets or Microsoft Excel Online are good choices. If you need a more powerful spreadsheet application with a wider range of features, Zoho Sheet or Airtable may be a better option. If you need a spreadsheet application that is part of a larger project management system, Smartsheet may be a good choice.
+
+## Tell me about Microsoft's Copilot
+
+Microsoft Copilot comes in two flavors:
+
+Microsoft Copilot for Microsoft 365: This is a paid add-on subscription service that integrates with various Microsoft 365 applications like Word, Excel, PowerPoint, Outlook, and Teams. It leverages AI to assist users with tasks within these applications. For instance, Copilot can help with:
+
+Rewriting and generating text based on user prompts.
+Summarizing content from emails and highlighting viewpoints of participants in a thread.
+Suggesting content for presentations based on upcoming meetings.
+Transcribing meetings and providing summaries for those joining late.
+Drafting emails with varying tones and lengths based on user input.
+Microsoft Copilot Pro: This is a separate product available through the Microsoft Store for $20. It's designed for creative applications and seems to be independent of Microsoft 365. Copilot Pro offers features like:
+
+Access to faster AI image generation with priority access to powerful AI models.
+Ability to use Copilot in select Microsoft 365 apps (requires a separate Microsoft 365 subscription).
+Here are some additional points to consider:
+
+Both Copilot for Microsoft 365 and Copilot Pro are relatively new products, launched in February 2023.
+There are mixed reviews about Copilot Pro's stability, with some users experiencing crashes during image generation.
