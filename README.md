@@ -1,5 +1,5 @@
 # Book
 
-* [AI](/Pages/AI/AI.md)
-* [Bookmarks](/Pages/Bookmarks/Bookmarks.md)
-* [Software Notes](/Pages/Research/Software.md)
+- [Bookmarks](/Pages/Bookmarks/Bookmarks.md)
+- [Research](/Pages/Research/Research.md)
+- [Software Notes](/Pages/Research/Software.md)
