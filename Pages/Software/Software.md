@@ -22,6 +22,6 @@ I'm enjoying Markdown for notes with interconnecting links.
 
 I like now Google Task handle recurring tasks. I use Any.Do for everything else.
 
-- [] Any.Do
-- [] Google Tasks
+- [ ] Any.Do
+- [ ] Google Tasks
 - [x] Remember the Milk
