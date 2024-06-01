@@ -8,6 +8,8 @@
 * [CareerFoundry](https://careerfoundry.com/)
 * [Free Code camp](https://www.freecodecamp.org/)
 * [Khan Academy](https://www.khanacademy.org/)
+* [ILoveImg](https://www.iloveimg.com/)
+* [Rotate Image](https://pinetools.com/rotate-image)
 
 ## Quick Reference
 
