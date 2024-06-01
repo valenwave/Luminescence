@@ -38,3 +38,7 @@ I'm enjoying Markdown for notes with interconnecting links. I'm also starting to
 ## Simplenote
 
 Benefits from having small searchable documents. It's UI relies on using search to find documents and the search works well. Including notes here that I don't want to be public or information that others wouldn't care about.
+
+## Visual Studio Code
+
+CTRL+SHIFT+X: Extensions
