@@ -4,22 +4,33 @@
 
 Lists
 
-- Home
-- Work
+* Home
+* Work
 
 Labels
 
-- home
-- road
-- break
-- daylight
+* home
+* road
+* break
+* daylight
 
 ## Simplenote
 
 Labels
 
-- bills
-- config
-- journal
-- money
-- private
+* bills
+* config
+* journal
+* money
+* private
+
+## Goodreads
+
+Bookshelves
+
+* Read
+* Currently Reading
+* Want to read
+* Children Books
+* Children Cardboard
+* Children Non-fiction

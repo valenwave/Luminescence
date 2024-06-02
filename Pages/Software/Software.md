@@ -39,3 +39,7 @@ Benefits from having small searchable documents. It's UI relies on using search 
 ## Visual Studio Code
 
 CTRL+SHIFT+X: Extensions
+
+## Goodreads
+
+There is a quote section for books. People can add a quote, and others can mark them with likes. It would be nice to see what page the quote is in, however.
