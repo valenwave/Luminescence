@@ -1,7 +1,6 @@
 # Bookmarks
 
 * [Documentation](Documentation/Documentation.md)
-* [Reddit](Reddit.md)
 * [Visual Studio Extensions](VisualStudioCodeExtensions.md)
 
 ## General
@@ -14,6 +13,7 @@
 * [Google Books](https://books.google.com/)
 * [Goodreads](https://www.goodreads.com/)
 * [Garlic](https://www.almanac.com/plant/garlic)
+* [Craigslist](https://www.craigslist.org/about/sites)
 
 ## Quick Reference
 
