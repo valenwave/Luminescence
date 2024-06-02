@@ -10,6 +10,8 @@
 * [Khan Academy](https://www.khanacademy.org/)
 * [ILoveImg](https://www.iloveimg.com/)
 * [Rotate Image](https://pinetools.com/rotate-image)
+* [Google Books](https://books.google.com/)
+* [Goodreads](https://www.goodreads.com/)
 
 ## Quick Reference
 
