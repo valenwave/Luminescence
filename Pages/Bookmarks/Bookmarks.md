@@ -1,6 +1,7 @@
 # Bookmarks
 
 * [Documentation](Documentation/Documentation.md)
+* [Reddit](Reddit.md)
 * [Visual Studio Extensions](VisualStudioCodeExtensions.md)
 
 ## General
@@ -12,6 +13,7 @@
 * [Rotate Image](https://pinetools.com/rotate-image)
 * [Google Books](https://books.google.com/)
 * [Goodreads](https://www.goodreads.com/)
+* [Garlic](https://www.almanac.com/plant/garlic)
 
 ## Quick Reference
 
