@@ -32,10 +32,6 @@ Not my favorite tool. Markup is not as great as Markdown, but is the place to pu
 
 Has a template system that is good to enforce standards onto other team members. Whenever I'm working on a page that is based on a template and I make a new section, I consider putting that section back into the template.
 
-## Simplenote
-
-Benefits from having small searchable documents. It's UI relies on using search to find documents and the search works well. Including notes here that I don't want to be public or information that others wouldn't care about.
-
 ## Visual Studio Code
 
 CTRL+SHIFT+X: Extensions
