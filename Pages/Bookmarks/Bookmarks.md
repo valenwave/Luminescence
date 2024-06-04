@@ -16,6 +16,9 @@
 * [Craigslist](https://www.craigslist.org/about/sites)
 * [Is it Safe to eat Sprouted Garlic?](https://www.eatingwell.com/article/7960357/is-it-safe-to-eat-sprouted-garlic/)
 * [Sticky Situations](https://www.stickysituationshoney.com/)
+* [Simplenote-electron](https://github.com/Automattic/simplenote-electron) 
+* [Internal links to imported notes can be multiline](https://github.com/Automattic/simplenote-electron/issues/2768) 
+* [Metronet](https://www.metronet.com/) 
 
 ## Quick Reference
 
