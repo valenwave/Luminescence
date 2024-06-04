@@ -15,6 +15,7 @@
 * [Garlic](https://www.almanac.com/plant/garlic)
 * [Craigslist](https://www.craigslist.org/about/sites)
 * [Is it Safe to eat Sprouted Garlic?](https://www.eatingwell.com/article/7960357/is-it-safe-to-eat-sprouted-garlic/)
+* [Sticky Situations](https://www.stickysituationshoney.com/)
 
 ## Quick Reference
 
