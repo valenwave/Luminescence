@@ -1,5 +1,7 @@
 # Computing
 
+* [Git](Git.md)
+
 ## Bullets
 
 When writing a bulleted list, don't make a single bullet item wrap more than a single line. If it is more, make it a paragraph instead.
@@ -10,6 +12,6 @@ For IIS to have access to the certificate. Add IIS_IUSRS to the permission group
 
 ![alt text](image.png)
 
-## Git
+## Simplenote
 
-If you're resurrecting a branch that has already been merged into develop or has not yet had a commit, update the branch by using the fast forward option.
+Simplenote has become my personal wikia. Philosophy is if I want to look up my thoughts on something, I should search it up on my Simplenote. If I want to update my thoughts on it, update it. If a thought is getting too big, note to an external document. I'm not a fan of how Simplenote does linking, so I don't even bother creating a link.
