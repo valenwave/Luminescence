@@ -36,6 +36,8 @@ Has a template system that is good to enforce standards onto other team members.
 
 ## Visual Studio Code
 
+There is an option to paste images into your documents with CTRL+V, but I am notice that having pictures take up a lot of memory. I'm going to avoid it, and go back to using images in Google Keep and Evernote.
+
 CTRL+SHIFT+X: Extensions
 
 ## Goodreads
