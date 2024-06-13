@@ -12,6 +12,8 @@ Linking vs. Markdown
 
 ## Evernote
 
+One of the best web snippet tools. Good for documenting features with lots of screenshots to support the documentation.
+
 Vs. Markdown
 
 * I kinda like how I can paste images here and see a thumbail of the image. It doesn't overwhelm the document and I can see more if the image if I want to.

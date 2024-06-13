@@ -1,6 +1,7 @@
 # Computing
 
 * [Git](Git.md)
+* [Software](Software.md)
 
 ## Bullets
 
@@ -9,8 +10,6 @@ When writing a bulleted list, don't make a single bullet item wrap more than a s
 ## Certificate Permission
 
 For IIS to have access to the certificate. Add IIS_IUSRS to the permission group.
-
-![alt text](image.png)
 
 ## Simplenote
 
