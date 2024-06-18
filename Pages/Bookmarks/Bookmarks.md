@@ -20,6 +20,7 @@
 * [Internal links to imported notes can be multiline](https://github.com/Automattic/simplenote-electron/issues/2768)
 * [Metronet](https://www.metronet.com/)
 * [WoodTV News](https://www.woodtv.com/)
+* [Razer](https://www.razer.com/)
 
 ## Quick Reference
 
