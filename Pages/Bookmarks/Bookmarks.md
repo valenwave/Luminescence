@@ -22,6 +22,14 @@
 * [WoodTV News](https://www.woodtv.com/)
 * [Razer](https://www.razer.com/)
 
+## GitHub
+
+* [GitHub](https://github.com/)
+* [Markdown Lint](https://github.com/DavidAnson/markdownlint)
+* [Markdown lint configure](https://github.com/DavidAnson/vscode-markdownlint#configure)
+* [MD013 - Line Length](https://github.com/DavidAnson/markdownlint/blob/v0.34.0/doc/md013.md)
+* [MD034 - Bare URL used](https://github.com/DavidAnson/markdownlint/blob/v0.34.0/doc/md034.md)
+
 ## Quick Reference
 
 * [MediaWiki Cheatsheet](https://www.mediawiki.org/wiki/Cheatsheet)
