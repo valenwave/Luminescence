@@ -36,3 +36,7 @@ According to the Farmers' Almanac, the last frost date in Grand Rapids, Michigan
 ## Leftovers
 
 - Eating leftovers within 3 or 4 days is a challenge. If you plan on making lunch prep for the week on Sunday, that leaves Friday with no leftovers. Also, a good way to enforce the time duration for the leftovers is to date when the food is made with scotch tape.
+
+## Pistachios
+
+Get shell on and rooasted. The shell keeps it from being stale, so they taste better and keeps longer. The shell also limits the amount of salt that is on the pistachio so the experience isn't as salty.
