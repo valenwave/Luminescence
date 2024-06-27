@@ -40,3 +40,5 @@ According to the Farmers' Almanac, the last frost date in Grand Rapids, Michigan
 ## Pistachios
 
 Get shell on and rooasted. The shell keeps it from being stale, so they taste better and keeps longer. The shell also limits the amount of salt that is on the pistachio so the experience isn't as salty.
+
+Pistachio is a good flavor. I had it as an ice cream once. I would get it again.
