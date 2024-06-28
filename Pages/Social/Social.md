@@ -17,3 +17,7 @@ Having two kids opens my eyes that everyone is going to struggle with different 
 ## Pointing out Health
 
 I like to think that I'm health conscience. It doesn't feel good for someone to tell me I'm fat when I'm feeling hungry. It would also wouldn't feel good if someone told me I need to work out if I'm tired. Something to keep in mind of when speaking to others.
+
+## Relationships
+
+There was a fantasy growing up that I would find a women some day that would take all my burdens away. I think a lot of it stems from the Disney channel, and I think it gets presented for both genders. It's a give and take. A relationship can only happen if you're strong enough to take some of the burdens of the other. Only then will you have some of your own burdens taken away.
