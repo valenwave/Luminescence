@@ -1,6 +1,5 @@
 # Book
 
-* [Bookmarks](Pages/Bookmarks/Bookmarks.md)
 * [Computing](Pages/Computing/Computing.md)
 * [Gaming](Pages/Gaming/Gaming.md)
 * [Research](Pages/Research/Research.md)
